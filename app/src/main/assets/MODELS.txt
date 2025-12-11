@@ -1,0 +1,2 @@
+Most models are Helsinki NLP models
+en-ja is not properly provided by Helsinki-NLP therefore, en-ja (full) is from Quick-MT & en-ja (Lite) is from staka/fugumt

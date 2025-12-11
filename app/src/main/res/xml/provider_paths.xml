@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- For saving files in internal storage -->
+    <files-path name="images" path="images/" />
+    <!-- For caching files -->
+    <cache-path name="cache" path="cache/" />
+</paths>

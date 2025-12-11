@@ -1,0 +1,14 @@
+TODO:
+
+
+- optimise & clean code (in progress)
+- implement OCR
+- add settings page (linked to the datastore)
+
+& IN FUTURE POTENTIALLY:
+
+- add document translator
+- add speech-to-text translator
+
+OUTSIDE OF APP CODE - Refine downloadable NLP models
+
